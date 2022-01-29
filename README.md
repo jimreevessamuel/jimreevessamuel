@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jimreevessamuel
+- 👋 Hello, I’m @jimreevessamuel
 - 👀 I’m interested in devoloping tool
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on github
